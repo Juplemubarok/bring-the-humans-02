@@ -49,12 +49,12 @@ If any of those is you, keep reading. The whole process takes less than an hour 
 
 ## Step 1 — Create your account
 
-1. Go to [make.fun](https://make.fun/?ref=k8xtnezb&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02).
+1. Go to [make.fun](https://make.fun/?ref=b1zn6bqg&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02).
 2. Sign up with your GitHub account. This is the account your entries will be linked to, so use the GitHub identity you want to build a reputation under.
 3. Set your Solana payout wallet in your account settings. This is where USDC prizes are sent, so double-check the address before you submit anything.
 4. Take a minute to read the rules of any bounty you join: prize amount, deadline, entry requirements, and how scoring works.
 
-> **Tip:** if you sign up through a referral link, the person who referred you earns a small bonus — and you lose nothing. My referral code is **`k8xtnezb`** and the link is https://make.fun/r/k8xtnezb — feel free to use it.
+> **Tip:** if you sign up through a referral link, the person who referred you earns a small bonus — and you lose nothing. My referral code is **`b1zn6bqg`** and the link is https://make.fun/r/b1zn6bqg — feel free to use it.
 
 ---
 
@@ -120,7 +120,7 @@ make.fun grows by word of mouth, and it pays referrers for bringing in new build
 
 Your referral link lives in your account dashboard. Share it in your README, in your profile, or with friends who might want to try a bounty. It costs the people you refer nothing — the bonuses come from the platform, not from their prizes. The 10% prize share runs for 90 days from the day each person signs up, so the earlier they start building, the more it can add up to.
 
-My referral code is **`k8xtnezb`**: https://make.fun/r/k8xtnezb
+My referral code is **`b1zn6bqg`**: https://make.fun/r/b1zn6bqg
 
 If this guide helped you, using that link is the easiest way to say thanks — it takes you to the same signup page, and it supports the person who wrote this for you.
 
@@ -194,4 +194,4 @@ You keep the repo, the skills, and the transcript. Every entry makes the next on
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=k8xtnezb&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=b1zn6bqg&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
